@@ -1,20 +1,17 @@
-# Hey there! 👋
+# 👨🏻‍💻 Henrique Albuquerque
 
-I'm Henrique, a Mechanical Engineering student based in Curitiba, Brazil.
+**`Estudante de Engenharia Mecânica | Desenvolvedor de Software`**
 
-⚙️ I'm passionate about engineering, technology, and problem-solving.
+Me chamo Henrique Albuquerque, sou natural de Curitiba, Paraná, e possuo formação técnica em Desenvolvimento de Sistemas, além de cursos na área de informática e programação. Tenho conhecimentos em Python, Java, JavaScript, HTML e CSS. Atualmente, curso Engenharia Mecânica na Universidade Tecnológica Federal do Paraná (UTFPR). Tenho grande interesse por tecnologia, programação e resolução de problemas, e busco aprimorar minhas habilidades em Python, desenvolver projetos práticos e expandir meus conhecimentos em desenvolvimento de software.
 
-💻 I enjoy coding in Python and exploring software development.
+### 🤖 Linguagens e Tecnologias
 
-🚀 I'm always learning new tools, programming languages, and technologies to build useful projects.
+<img align="left" alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-🔧 My interests include mechanical engineering, automation, programming, and CAD design.
+<br/><br/>
 
-📚 Currently focused on improving my technical skills and building projects to share on GitHub.
-
-- Fun Facts:
-- ⚙️ Mechanical Engineering student at UTFPR
-- 💻 Interested in Python and software development
-- 🔩 Passionate about engineering and innovation
-- 🌎 Based in Curitiba, Paraná, Brazil
-- 🎯 Always learning, building, and improving
